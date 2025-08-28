@@ -14,7 +14,9 @@
             "email": "584039875@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+        "firebase/php-jwt": "^6.11"
+    },
     "repositories": {
         "packagist": {
             "type": "composer",
