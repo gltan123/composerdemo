@@ -14,5 +14,11 @@
             "email": "584039875@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
 }
